@@ -14,3 +14,14 @@ After Creating Database,
 
 9th Step: Open a browser and go to URL “http://localhost/College-Management-System/” For the project demo, you can look at the video below:
 
+Admin
+admin@gmail.com
+admin123*
+
+	
+Teacher
+staff1@gmail.com
+teacher123*
+
+
+
